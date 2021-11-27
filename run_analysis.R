@@ -1,5 +1,5 @@
 ##Setting Working Directory
-setwd("E:/coursera/UCI HAR Dataset")
+setwd("E:/UCI HAR Dataset")
 ##Loading Packages 
 library(dplyr)
 library(data.table)
